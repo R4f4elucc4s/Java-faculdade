@@ -5,8 +5,7 @@ linha; caso contrário, imprima um caractere de tabulação. Assuma que esse có
 aplicativo. Utilize o método System.out.println () para imprimir o caractere de nova linha, e utilize
 o método System.out.print ('\t') para imprimir o caractere de tabu lação.]
 */
-
-public class Ted {
+//alunos: Rafael Lucas, Gabriel Gomes, João Pessoa, Wisley  Rodrigues.
     public static void main(String[] args) {
 
         int i = 0;
