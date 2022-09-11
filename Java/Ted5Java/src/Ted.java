@@ -6,6 +6,8 @@ aplicativo. Utilize o método System.out.println () para imprimir o caractere de
 o método System.out.print ('\t') para imprimir o caractere de tabu lação.]
 */
 //alunos: Rafael Lucas, Gabriel Gomes, João Pessoa, Wisley  Rodrigues.
+
+public class Ted{
     public static void main(String[] args) {
 
         int i = 0;
